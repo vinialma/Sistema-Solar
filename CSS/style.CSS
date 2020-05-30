@@ -1,0 +1,36 @@
+body {
+    background: black;
+    margin-right: 200px;
+    margin-left: 100px;
+}
+
+header {
+    margin-top: 70px;
+}
+
+h1 {
+    color: white;
+    font-family: fantasy;
+}
+
+h2 {
+    color: white;
+    font-family: monospace;
+}
+
+p {
+    color: white;
+    font-size: 18px;
+}
+
+img {
+    margin-bottom: 20px;
+}
+
+a {
+    color: rgb(130, 189, 238);
+}
+
+footer {
+    margin-bottom: 30px;
+}
